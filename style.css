@@ -1,0 +1,42 @@
+/* USO CSS PARA DARLE TOQUES STETICOS A LA PAGINA */
+
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+
+.nav {
+    margin: 50px;
+    padding: 50px;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+.head {
+    background-color: rgb(247, 247, 247);
+}
+
+body {
+    background-color: bisque;
+    font-family: 'Square Peg', cursive;
+    text-transform: uppercase;
+}
+
+.body {
+    background-color: bisque;
+    font-family: 'Square Peg', cursive;
+    text-transform: uppercase;
+}
+
+.footer {
+    background-color: gray;
+}
+
+.contenido {
+    margin: 10px;
+}
+
+.album {
+    background-color: bisque;
+    font-family: 'Square Peg', cursive;
+    text-transform: uppercase;
+}
