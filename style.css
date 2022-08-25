@@ -40,3 +40,10 @@ body {
     font-family: 'Square Peg', cursive;
     text-transform: uppercase;
 }
+
+/* agrego hover */
+
+.head ul li a:hover{
+    background-color: blue;
+    color: white;
+}
